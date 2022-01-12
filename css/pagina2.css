@@ -1,0 +1,31 @@
+.subtituloRojo {
+  text-align: justify;
+  font-style: italic;
+  color: red;
+}
+img {
+  width: 80%;
+}
+.textoP2 {
+  text-align: justify;
+  color: rgba(0, 0, 255, 0.884);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+body {
+  background-color: yellow;
+}
+.listaCirculo {
+  list-style-type: square;
+  font-style: italic;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.listaOblique {
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: rgb(0, 0, 255);
+}
+button {
+  display: block;
+  margin: auto;
+}

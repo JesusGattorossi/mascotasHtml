@@ -1,0 +1,26 @@
+.subtituloVerde {
+  color: aqua;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.subtituloAzul {
+  color: blue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  text-align: right;
+}
+.texto1 {
+  text-align: left;
+  font-style: italic;
+}
+img {
+  width: 50%;
+}
+body {
+  background-color: gold;
+}
+button {
+  display: block;
+  margin: auto;
+}
